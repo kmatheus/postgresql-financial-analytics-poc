@@ -1,0 +1,5 @@
+-- =============================================================================
+-- SQL Renegociação Avançado: Consolidação de Inadimplência, Dados Pedagógicos, Condições de Pagamento entre Outros
+-- Objetivo: Consolidar dados de 10+ tabelas para geração de contrato de confissão de dívidas,
+-- tratando multa, juros, mora e condições de pagamento.
+-- =============================================================================

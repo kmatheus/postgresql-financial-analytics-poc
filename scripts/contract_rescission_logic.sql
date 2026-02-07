@@ -1,0 +1,5 @@
+-- =============================================================================
+-- SQL Rescisão Avançado: Consolidação de Inadimplência e Dados Pedagógicos
+-- Objetivo: Consolidar dados de 10+ tabelas para geração de contrato,
+-- tratando status pedagógico e multa rescisória.
+-- =============================================================================
